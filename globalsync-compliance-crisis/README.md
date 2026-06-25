@@ -74,6 +74,6 @@ into decisions stakeholders can act on
 ---
 
 ## Deliverable
-- [GlobalSync Compliance Crisis — Full Assessment (PDF)](./GlobalSync_ComplianceCrisis_OmotayoAkinola.pdf)
+- [GlobalSync Compliance Crisis — Full Assessment (PDF)](./Omotayo%20Akinola_%20GlobalSync.pdf)
 
 ---
