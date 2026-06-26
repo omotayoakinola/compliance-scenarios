@@ -95,4 +95,4 @@ security hygiene.
 ---
 
 ## Deliverable
-- [Globacom vs Finastra — Full Comparative Analysis (PDF)](./Globacom_Finastra_BreachAnalysis_OmotayoAkinola.pdf)
+- [Globacom vs Finastra — Full Comparative Analysis (PDF)](./Globacom_Finastra_BreachAnalysis_OmotayoAkinola.pdf.pdf)
